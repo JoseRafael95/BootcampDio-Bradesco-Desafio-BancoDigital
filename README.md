@@ -13,9 +13,9 @@ As contas permitem que o usuário realize as seguintes operações:
 4. Consultar o saldo da conta.
    
 ## Tecnologias
-Java 23 (versão mais recente)
-POO (Programação Orientada a Objetos)
-Collections (para manipulação de dados)
+- Java 23 (versão mais recente)
+- POO (Programação Orientada a Objetos)
+- Collections (para manipulação de dados)
 
 
 ## Instalação
